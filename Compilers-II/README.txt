@@ -1,0 +1,1 @@
+Find 7 total files excluding this readme. CS18BTECH11042_Compilers_II_Assignment_1.pdf contains the answers to the questions. 3 pairs of C and python programs were used for experimental verification and contain the objective and conclusion of the experiment. 
