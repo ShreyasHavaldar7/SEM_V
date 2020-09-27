@@ -1,1 +1,3 @@
 Please find 4 files apart from this README. fig01.eps and fig02.eps are the two required figures for the first and second question respectively. The gnuplot script p1.gnu contains the script for plotting fig01. The gnuplot script p2.gnu contains the script for plotting fig02.
+
+I used diverging colour scheme to ensure clarity between different curves on the same plot and tried to ensure that the figures are colour blind safe.
