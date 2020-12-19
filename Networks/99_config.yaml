@@ -1,0 +1,13 @@
+network:
+    version: 2
+    renderer: networkd
+    ethernets:
+        enp2s1:
+            addresses:
+                - 10.0.0.253/24
+            gateway4: 10.0.0.254
+            nameservers:
+                search: [pinglocalnetwork.com]
+                addresses: [10.0.0.253]
+
+
